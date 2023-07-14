@@ -1,0 +1,33 @@
+{
+    "consultas": [
+        {
+            "id": 1,
+            "title": "Consulta - Dentista",
+            "description": "Nossos tratamentos abrangem uma grande quantidade de tratamentos dentários, desde procedimentos de rotina, como limpezas, até tratamentos como implantes dentários. Marque uma consulta com seu dentista!",
+            "price": 150.00,
+            "image": ["https://pixabay.com/photos/dentist-dental-care-dentistry-teeth-2530990/"]
+        },
+        {
+            "id": 2,
+            "title": "Consulta - Pediatra",
+            "description": "Nossa equipe altamente qualificada realiza exames de rotina, vacinações e monitoramento do crescimento. Marque uma consulta com o pediatra!",
+            "price": 180.00,
+            "image":["https://pixabay.com/photos/doctor-child-pediatrician-patient-6497498/"]
+        },
+        {
+            "id": 3,
+            "title": "Exames de laboratório",
+            "description": "Realizamos diversos exames laboratoriais, incluindo exames de sangue, urina e fezes. Além de exames especializados, como hemograma completo. Marque seu exame!",
+            "price": 65.00,
+            "image":["https://pixabay.com/photos/technology-exams-group-biology-4905257/"]
+        },
+        {
+            "id": 4,
+            "title": "Oftamologista",
+            "description": "Nossos exames incluem exames de vista completos, avaliação de saúde ocular, prescrição e adaptação de óculos. Além disso, realizamos o tratamento de doenças oculares. Marque sua consulta!",
+            "price": 160.00,
+            "image":["https://pixabay.com/photos/eye-check-optometry-doctor-optician-5091177/"]
+        }
+
+    ]
+}
